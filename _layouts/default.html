@@ -18,12 +18,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ https://rhd1213.github.io/another-page.html }}" class="btn">View on GitHub</a>
-        <a href="{{ https://rhd1213.github.io/another-page.html }}" class="btn">Advisor</a>
-        <a href="{{ https://www.dropbox.com/scl/fi/iyw7ro7eox6uw9otai9wm/RLab_OnePager_230904.ppt?rlkey=zzd4pe0wsordheb5e7w7t7irm&dl=0 }}" class="btn">Research</a>
-      {% endif %}
-      {% if site.show_downloads %}
+
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ https://rhd1213.github.io/another-page.html }}" class="btn">Advisor</a>
         <a href="{{ https://www.dropbox.com/scl/fi/iyw7ro7eox6uw9otai9wm/RLab_OnePager_230904.ppt?rlkey=zzd4pe0wsordheb5e7w7t7irm&dl=0 }}" class="btn">Research</a>
