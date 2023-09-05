@@ -19,7 +19,8 @@ description: This is just another page
   2023 ~ 한양대학교 기계공학과 조교수 <br>
 
 
-<img src="assets/Passportphoto_RHD_Full.jpg" alt="Passport" width="250" height="300" > 
+<img src="assets/css/Passportphoto_RHD_Full.jpg" alt="Passport" width="250" height="300" > 
+
 
 
 More information is available via
