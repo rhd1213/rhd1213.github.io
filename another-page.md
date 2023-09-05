@@ -1,8 +1,4 @@
----
-layout: default  1
-title: Another page  2
-description: This is just another page  3
----
+
 
 # Professor
 
