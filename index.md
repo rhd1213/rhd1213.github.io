@@ -1,8 +1,8 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**R Lab investigates carbon fiber composites.** <p>
+The ultimate objective of this lab is to make smart composites intelligently. <br>
+R Lab is always open to passionate researchers regardless of the majors. <br>
+Welcome and let us enjoy state-of-the-art composites research. <br>
+</p>
 
 [Advisor](./another-page.html)
 
