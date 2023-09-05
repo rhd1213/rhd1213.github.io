@@ -2,13 +2,12 @@
 The ultimate objective of this lab is to make smart composites intelligently. <br>
 R Lab is always open to passionate researchers regardless of the majors. <br>
 Welcome and let us enjoy state-of-the-art composites research. <br>
-<br><br>
 
-[Advisor](./another-page.html)
 
-There should be whitespace between paragraphs.
+[Advisor](./another-page.html) 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
 
 # Header 1
 
