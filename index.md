@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Advisor](./another-page.html).
+[Advisor](./another-page.html)
 
 There should be whitespace between paragraphs.
 
