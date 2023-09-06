@@ -2,6 +2,8 @@
 
 # R Lab
 
+<img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" > 
+
 ### **Hyung Doh Roh, Ph.D.**
 
 2010 ~ 2014 울산과학기술원 기계공학과 학사 <br>
@@ -15,7 +17,7 @@
 2023 ~      한양대학교 기계공학과 조교수 <br>
 
 
-<img src="assets/css/Passportphoto_RHD_Full.jpg" alt="Passport" width="300" height="360" > 
+<img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" > 
 
 
 
