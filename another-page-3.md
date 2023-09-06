@@ -9,41 +9,24 @@
 <br>
 
 <dl>
-<dt>"R" represents the first letter of the last name of the advisor. </dt>
-<dd>The advisor is professor Hyung Doh Roh. </dd>
+<dt>Structural Health Self-monitoring (SHSm) </dt>
+<dd>Continuous carbon fiber reinforced plastics <br>
+  with a function of mechanical deformation monitoring <br>
+  without any sensors. </dd>
 
-<dt>"R" is a homonym of "Egg" in Korean ("알"). </dt>
-<dd>R Lab endeavors to nurture superior mechanical engineers. <br>
-Any type of researchers in various fields are welcome! </dd>
+<dt>Artificial Intelligence (AI) to Composites </dt>
+<dd>State-of-the-art technologies for <br>
+  not only composite manufacturing 
+  but also functionalizations such as SHSm algorithms. </dd>
 
-<dt>"Egg" has not only geometrically but also biologically stable structure. </dt>
-<dd>Hope to be stable and substantial! <br>
-Reinforce ourselves to spread out worldwide. </dd>
+<dt>Composite Joining (Planned) </dt>
+<dd>Any joining methods for composites are considered. <br> 
+    This topic is under contemplation (TBD). </dd>
 </dl>
 <br>
 
-### **Logo**
-
-<img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" > 
-<br>
-
-### **Quotations with Empathy**
-<dl>
-<dt>알은 남이 깨주면 후라이가 되지만, 스스로 깨고 나오면 새 삶 시작된다. </dt>
-<dd>Egg becomes an fried egg when it was broken by others.  <br>
-However, new life begins when you break out an egg. </dd>
-
-<dt>반복되는 운은 실력이고, 반복되는 실패는 습관이다. </dt>
-<dd>Repetitive good lucks are talents, whereas repetitive fails are habits. </dd>
-
-<dt>안 보이는 걸 봐야 되고, 안 들리는 걸 들어야 된다. </dt>
-<dd>See the unseen, and listen to what you can't hear. </dd>
-
-<dt>행복해서 웃는 것이 아니라, 웃어서 행복한 것이다. </dt>
-<dd>Laugh and smile bring happiness, not the other way. </dd>
-
-</dl>
-<br>
+### **In-depth Demonstration**
+In-depth Demonstration is available through Dropbox .
 
 
 [Back](./)
