@@ -11,6 +11,10 @@
 <dt>"R" is a homonym of "Egg" in Korean ("알"). </dt>
 <dd>R Lab endeavors to nurture superior mechanical engineers. <br>
 Any type of researchers in various fields are welcome! </dd>
+
+<dt>"Egg" has not only geometrically but also biologically stable structure. </dt>
+<dd>Hope to be stable and substantial! <br>
+Reinforce ourselves to spread out worldwide. </dd>
 </dl>
 <br>
 
@@ -22,7 +26,7 @@ Any type of researchers in various fields are welcome! </dd>
 ### **Quotations with Empathy**
 <dl>
 <dt>알은 남이 깨주면 후라이가 되지만, 스스로 깨고 나오면 새 삶 시작된다. </dt>
-<dd>An egg becomes an fried egg when it was broken by others.  <br>
+<dd>Egg becomes an fried egg when it was broken by others.  <br>
 However, new life begins when you break out an egg. </dd>
 
 <dt>반복되는 운은 실력이고, 반복되는 실패는 습관이다. </dt>
