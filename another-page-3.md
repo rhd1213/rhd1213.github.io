@@ -10,16 +10,14 @@
 <dl>
 <dt>Structural Health Self-monitoring (SHSm) </dt>
 <dd>Continuous carbon fiber reinforced plastics <br>
-  with a function of mechanical deformation monitoring <br>
-  without any sensors. </dd>
+  with a function of mechanical deformation monitoring without any sensors. </dd>
 
 <dt>Artificial Intelligence (AI) to Composites </dt>
 <dd>State-of-the-art technologies for <br>
-  not only composite manufacturing 
-  but also functionalizations such as SHSm algorithms. </dd>
+  not only composite manufacturing but also functionalizations such as SHSm algorithms. </dd>
 
 <dt>Composite Joining (Planned) </dt>
-<dd>Any joining methods for composites are considered. <br> 
+<dd>Any joining methods are considered such as laser, sonicator, and induction. <br> 
     This topic is under contemplation (TBD). </dd>
 </dl>
 <br>
