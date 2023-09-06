@@ -15,7 +15,7 @@
 2023 ~      한양대학교 기계공학과 조교수 <br>
 
 
-<img src="assets/css/Passportphoto_RHD_Full.jpg" alt="Passport" width="250" height="300" > 
+<img src="assets/css/Passportphoto_RHD_Full.jpg" alt="Passport" width="300" height="360" > 
 
 
 
@@ -24,6 +24,8 @@ More information is available via
 <br>
 More information is available via
 <a href="https://scholar.google.co.kr/citations?hl=en&user=e4VrpLoAAAAJ&view_op=list_works&gmla=AOV7GLMH9Pqf9sQjn2uCdQiG7LYlc83ElR47u5-4VL36k-r0bxjNYLW3b4gGwrv4Nxa_6Thmx6XHwUc-bavDkIurZYHUHcaL17RXIG1MYhHZ2Mm6Ua4fxRjKGBblvHz3mpNd">Google Scholar</a>.
+<br>
+Contact via <a href="mailto:rhd1213@hanyang.ac.kr"> E-mail</a>
 <br>
 
 <br>
