@@ -5,7 +5,7 @@
 
 ### **Make Smart Composites, Intelligently**
 
-<img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" > 
+<img src="assets/css/OnePager of RLab_230906.png" alt="OnePager" width="817" height="617" > 
 <br>
 
 <dl>
