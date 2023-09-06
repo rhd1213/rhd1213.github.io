@@ -25,7 +25,7 @@
 ### **Do you need a deeper material?**
 In-depth demonstration about
 <a href="https://www.dropbox.com/scl/fi/t27ztgfpv92evkp1e8s7x/Intro-for-ERICA_-_230906_V3.pdf?rlkey=vhu19xqiuq7mnmdoxk0g77h5d&dl=0" target="blank">Smart Composites via Dropbox download</a>
-<br> <br><br>
+<br> <br> <br>
 
 [Back](./)
 <br>
