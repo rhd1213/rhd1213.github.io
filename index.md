@@ -4,8 +4,6 @@ R Lab is always open to passionate researchers regardless of the majors. <br>
 Welcome and let us enjoy state-of-the-art composites research. <br>
 <br>
 #### Any type of researchers on various majors are welcome!
-
-<br>
 <br>
 
 ### R Lab Info
