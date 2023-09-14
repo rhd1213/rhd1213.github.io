@@ -38,6 +38,9 @@ However, new life begins when you break out an egg. </dd>
 <dt>행복해서 웃는 것이 아니라, 웃어서 행복한 것이다. </dt>
 <dd>Laugh and smile bring happiness, not the other way. </dd>
 
+<dt>하쿠나 마타타 </dt>
+<dd>Hakuna Matata </dd>
+
 </dl>
 <br>
 
