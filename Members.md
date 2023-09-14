@@ -1,8 +1,10 @@
 
 
-# Current Lab Members
+# WELCOME
 
-## **Any type of researchers are Welcome!**
+### **Any type of researchers are Welcome!**
+### **Researchers with any majors are Welcome!**
+### **All you need is enthusiasm!**
 
 <br>
 
