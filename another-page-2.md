@@ -25,7 +25,7 @@ Reinforce ourselves to spread out worldwide. </dd>
 
 ### **Quotations with Empathy**
 <dl>
-<dt>알은 남이 깨주면 후라이가 되지만, 스스로 깨고 나오면 새 삶 시작된다. </dt>
+<dt>알은 남이 깨주면 후라이가 되지만, 스스로 깨고 나오면 새 삶이 시작된다. </dt>
 <dd>Egg becomes an fried egg when it was broken by others.  <br>
 However, new life begins when you break out an egg. </dd>
 
