@@ -1,14 +1,20 @@
 
 
-# WELCOME
+# Graduate
 
-### **Any type of researchers are Welcome!**
-### **Researchers with any majors are Welcome!**
+### **We are recruiting our lab members!**
+### **Any majors are Welcome!**
 ### **All you need is enthusiasm!**
 
 <br>
 
 <br>
+
+# Undergraduate
+
+### **Kim, DongHun**
+### **Park, Sejun**
+### **Li, Yakun**
 
 <br>
 
