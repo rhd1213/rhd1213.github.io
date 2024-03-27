@@ -30,6 +30,17 @@ Personal Interests | Motor vehicles <br>
 Contact via <a href="mailto:liyakun15@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
+
+### **Xin, YaoZhong**
+<img src="assets/css/홈페이지사진_신요중.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2021 <br>
+Research Area | Smart composites <br>
+Technical Skills | Design and Simulation: SolidWorks, AutoCad, and ANSYS; Data analysis: Python and MS Office; <br>
+Personal Interests | Badminton and Lego <br>
+Contact via <a href="mailto:xinyaozhong777@126.com"> E-mail</a> <br>
+<br>
+
+
 <br>
 
 [Back](./)
