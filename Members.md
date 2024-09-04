@@ -34,7 +34,7 @@ Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
 
 
 ### **Jang, Woo Cheol**
-<br>
+<img src="assets/css/홈페이지사진_장우철.jpg" alt="Passport" width="150" height="180" > <br>
 Education | Undergraduate in Aviation Maintenance Engineering , Korea Polytechnics since 2017  <br>
 Research Area | Thermoforming of sandwich composites   <br>
 Technical Skills | CATIA, AutoCAD and Manufacturing (Hand layup, Infusion, Prepreg)  <br>
