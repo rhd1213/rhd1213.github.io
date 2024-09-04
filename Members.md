@@ -35,10 +35,10 @@ Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
 
 ### **Jang, Woo Cheol**
 <br>
-Education : Undergraduate in Aviation Maintenance Engineering , Korea Polytechnics since 2017
-Research Area : Thermoforming of sandwich composites ,
-Technical Skills : CATIA, AutoCAD Manufacturing (Hand layup, Infusion, Prepreg)
-Personal Interests : SCUBA , Snowboard
+Education | Undergraduate in Aviation Maintenance Engineering , Korea Polytechnics since 2017  <br>
+Research Area | Thermoforming of sandwich composites   <br>
+Technical Skills | CATIA, AutoCAD and Manufacturing (Hand layup, Infusion, Prepreg)  <br>
+Personal Interests | SCUBA and Snowboard  <br>
 Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
