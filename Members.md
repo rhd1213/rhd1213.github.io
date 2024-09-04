@@ -12,14 +12,6 @@
 
 # Undergraduate
 
-### **Kim, DongHun**
-<img src="assets/css/홈페이지사진_김동훈.jpg" alt="Passport" width="150" height="180" > <br>
-Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2023 <br>
-Research Area | Data Science of CFRP Using Machine Learning <br>
-Technical Skills | Design and Simulation: CATIA, AutoCad, and ANSYS / Data analysis: Python, MATLAB, and MS Office <br>
-Personal Interests | Tennis, YouTube <br>
-Contact via <a href="mailto:gazicola@hanyang.ac.kr"> E-mail</a> <br>
-<br>
 
 ### **Li, Yakun**
 <img src="assets/css/홈페이지사진_이아곤.jpg" alt="Passport" width="150" height="180" > <br>
@@ -27,7 +19,7 @@ Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA si
 Research Area | Smart composites <br>
 Technical Skills | CATIA, ANSYS, MS Office, and MATLAB <br>
 Personal Interests | Motor vehicles <br>
-Contact via <a href="mailto:liyakun15@hanyang.ac.kr"> E-mail</a> <br>
+Contact via <a href="mailto:liyakun1115@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
@@ -37,7 +29,17 @@ Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA si
 Research Area | Smart composites <br>
 Technical Skills | Design and Simulation: SolidWorks, AutoCad, and ANSYS; Data analysis: Python and MS Office; <br>
 Personal Interests | Badminton and Lego <br>
-Contact via <a href="mailto:xinyaozhong777@126.com"> E-mail</a> <br>
+Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
+<br>
+
+
+### **Jang, Woo Cheol**
+<br>
+Education : Undergraduate in Aviation Maintenance Engineering , Korea Polytechnics since 2017
+Research Area : Thermoforming of sandwich composites ,
+Technical Skills : CATIA, AutoCAD Manufacturing (Hand layup, Infusion, Prepreg)
+Personal Interests : SCUBA , Snowboard
+Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
