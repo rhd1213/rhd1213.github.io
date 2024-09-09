@@ -24,7 +24,7 @@ Contact via <a href="mailto:liyakun1115@hanyang.ac.kr"> E-mail</a> <br>
 
 
 ### **Xin, YaoZhong**
-<img src="assets/css/홈페이지사진_신요중.jpg" alt="Passport" width="150" height="180" > <br>
+<img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
 Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2021 <br>
 Research Area | Smart composites <br>
 Technical Skills | Design and Simulation: SolidWorks, AutoCad, and ANSYS; Data analysis: Python and MS Office; <br>
