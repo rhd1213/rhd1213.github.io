@@ -1,16 +1,14 @@
 
 
-# Graduate
-
 ##### **We are recruiting our lab members!**
 ##### **Any majors are Welcome!**
 ##### **All you need is enthusiasm!**
 
-<br>
+# Graduate
+
+
 
 <br>
-
-# Undergraduate
 
 
 ### **Li, Yakun**
@@ -42,6 +40,14 @@ Personal Interests | SCUBA and Snowboard  <br>
 Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
+
+<br>
+
+# Undergraduate
+
+### **Jung, Wonjong**
+
+### **Lee, Gyuhwa**
 
 <br>
 
