@@ -10,7 +10,7 @@ Welcome and let us enjoy state-of-the-art composites research. <br>
 
 | Contents         | Link               | Additional info     |
 |:-----------------|:-------------------|:--------------------|
-| Research topics  | [Smart Composites](./another-page-3.html)                                                                                                                               | Manuf. and monitor.    |
+| Research topics  | [Smart Composites](./ResearchTopics.html)                                                                                                                               | Manuf. and monitor.    |
 | Genesis          | [R and 알](./genesis.html)                                                                                                                                              | Logo and quotations    |
 | Advisor          | [Hyung Doh Roh](./professor.html)                                                                                                                                       | Assistant professor    |
 | Members          | [Researchers](./Members.html)                                                                                                                                           | Lab members and alumni |
