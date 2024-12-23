@@ -1,8 +1,8 @@
 
-<br>
-##### **We are recruiting our lab members!**
-##### **Any majors are Welcome!**
-##### **All you need is enthusiasm!**
+
+#### **We are recruiting our lab members!**
+#### **Any majors are Welcome!**
+#### **All you need is enthusiasm!**
 <br>
 <br>
 
