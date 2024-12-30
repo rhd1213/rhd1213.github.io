@@ -45,9 +45,27 @@ Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 
 # Undergraduate
 
-### **Jung, Wonjong**
+<br>
 
-### **Lee, Gyuhwa**
+
+### **Jeong, WonJong**
+<img src="assets/css/홈페이지사진_정원종.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
+Research Area | Ultrasonic Testing  <br>
+Technical Skills | AutoCad, Inventor, Solidworks <br>
+Personal Interests | Automobile <br>
+Contact via <a href="mailto:doldol0202@gmail.com"> E-mail</a> <br>
+<br>
+
+
+### **Lee, Gyu Hwa**
+<img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2020 <br>
+Research Area | Smart composites <br>
+Technical Skills | CATIA, MATLAB and MS Office <br>
+Personal Interests | Aerospace <br>
+Contact via <a href="mailto:mszzangso@hanyang.ac.kr"> E-mail</a> <br>
+<br>
 
 <br>
 
