@@ -8,8 +8,6 @@
 
 # Graduate
 
-<br>
-
 
 ### **Li, Yakun**
 <img src="assets/css/홈페이지사진_이아곤.jpg" alt="Passport" width="150" height="180" > <br>
@@ -44,8 +42,6 @@ Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 # Undergraduate
-
-<br>
 
 
 ### **Jeong, WonJong**
