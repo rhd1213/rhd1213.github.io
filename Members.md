@@ -59,7 +59,7 @@ Contact via <a href="mailto:doldol0202@gmail.com"> E-mail</a> <br>
 
 
 ### **Lee, Gyu Hwa**
-<img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
+<img src="assets/css/홈페이지사진_이규화.jpg" alt="Passport" width="150" height="180" > <br>
 Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2020 <br>
 Research Area | Smart composites <br>
 Technical Skills | CATIA, MATLAB and MS Office <br>
