@@ -13,7 +13,7 @@
 <img src="assets/css/홈페이지사진_이아곤.jpg" alt="Passport" width="150" height="180" > <br>
 Education | B.S. in Mechanical Engineering, Hanyang University ERICA, 2024 <br>
 Research Area | Smart composites <br>
-Technical Skills | CATIA, ANSYS, MS Office, and MATLAB <br>
+Technical Skills | CATIA, ANSYS, MS Office and MATLAB <br>
 Personal Interests | Motor vehicles <br>
 Contact via <a href="mailto:liyakun1115@hanyang.ac.kr"> E-mail</a> <br>
 <br>
@@ -23,7 +23,7 @@ Contact via <a href="mailto:liyakun1115@hanyang.ac.kr"> E-mail</a> <br>
 <img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
 Education | B.S. in Mechanical Engineering, Hanyang University ERICA, 2024 <br>
 Research Area | Smart composites <br>
-Technical Skills | Design and Simulation: SolidWorks, AutoCad, and ANSYS; Data analysis: Python and MS Office; <br>
+Technical Skills | Design and simulation: SolidWorks, AutoCad and ANSYS; Data analysis: Python and MS Office; <br>
 Personal Interests | Badminton and Lego <br>
 Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
 <br>
@@ -31,9 +31,9 @@ Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
 
 ### **Jang, Woo Cheol**
 <img src="assets/css/홈페이지사진_장우철.jpg" alt="Passport" width="150" height="180" > <br>
-Education | B.S. in Aviation Maintenance Engineering, Korea Polytechnics, 2021  <br>
+Education | B.S. in Aviation Maintenance Engineering, Korea Polytechnics, 2017  <br>
 Research Area | Thermoforming of sandwich composites   <br>
-Technical Skills | CATIA, AutoCAD and Manufacturing (Hand layup, Infusion, Prepreg)  <br>
+Technical Skills | CATIA, AutoCAD and manufacturing (hand layup, infusion and prepreg)  <br>
 Personal Interests | SCUBA and snowboard  <br>
 Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
