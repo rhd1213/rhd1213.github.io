@@ -4,8 +4,8 @@
 
 
 ### **KSCM 2025**
-<img src="assets/css/그림5.jpg" alt="Certificate"  >
-<img src="assets/css/그림6.jpg" alt="Content"  > <br>
+<img src="assets/css/그림5.png" alt="Certificate"  >
+<img src="assets/css/그림6.png" alt="Content"  > <br>
 Title (Eng): Debonding Diagnosis of Co-cured CFRP/PVC Foam Core Sandwich Composites by UT A-scan <br>
 Title (Kor): 초음파 A-scan을 이용한 공동경화된 CFRP/PVC 폼코어 샌드위치 복합재의 접합 성능 평가 <br>
 Researcher: Won Jong Jeong, Woo Cheol Jang and Hyung Doh Roh <br>
@@ -16,8 +16,8 @@ Location: Shinhwa World, Jeju, Republic of Korea <br>
 
 
 ### **KSCM 2024**
-<img src="assets/css/그림1.jpg" alt="Certificate"  >
-<img src="assets/css/그림2.jpg" alt="Content"  > <br>
+<img src="assets/css/그림1.png" alt="Certificate"  >
+<img src="assets/css/그림2.png" alt="Content"  > <br>
 Title (Eng): Joining Technology of Carbon Fiber Reinforced Polymer (CFRP) using Copper Wire and Adhesive <br>
 Title (Kor): 구리선과 접착제를 이용한 탄소섬유강화 플라스틱의 접합 기술 <br>
 Researcher: Yakun Li and Hyung Doh Roh <br>
@@ -28,8 +28,8 @@ Location: BPEX, Busan, Republic of Korea <br>
 
 
 ### **KSME 2024**
-<img src="assets/css/그림7.jpg" alt="Certificate" width="150" height="180" >
-<img src="assets/css/그림8.jpg" alt="Content" width="150" height="180" > <br>
+<img src="assets/css/그림7.png" alt="Certificate" width="150" height="180" >
+<img src="assets/css/그림8.png" alt="Content" width="150" height="180" > <br>
 Title (Eng): Real-time CFRP Manufacturing Monitoring System <br>
 Title (Kor): 실시간 탄소섬유강화 플라스틱의 제조 공정 모니터링 시스템 <br>
 Researcher: Hyung Doh Roh <br>
