@@ -5,6 +5,12 @@ Welcome and let us enjoy state-of-the-art composites research. <br>
 <br>
 #### Any type of researchers on various majors are welcome!
 <br>
+<br>
+
+ $\color{Red}\large{\textbf{R Lab research topics Part 2 has been uploaded in "Research topics" section!}}$
+<br>
+
+<br>
 
 ### R Lab Info
 
