@@ -25,8 +25,11 @@
 <br>
 
 ### **Do you need a deeper material?**
-In-depth demonstration about
-<a href="https://www.dropbox.com/scl/fi/t27ztgfpv92evkp1e8s7x/Intro-for-ERICA_-_230906_V3.pdf?rlkey=vhu19xqiuq7mnmdoxk0g77h5d&dl=0" target="blank">Smart Composites via Dropbox download</a>
+In-depth investigation via Dropbox download:  <br>
+- <a href="https://www.dropbox.com/scl/fi/t27ztgfpv92evkp1e8s7x/Intro-for-ERICA_-_230906_V3.pdf?rlkey=vhu19xqiuq7mnmdoxk0g77h5d&dl=0" target="blank">R Lab Part 1 </a> <br>
+- <a href="https://www.dropbox.com/scl/fi/qkasequy991ogp435pezq/R-Lab-2025-Fall_V1.pdf?rlkey=bhbhg9jch6ijj7s7xn41nyuoq&dl=0" target="blank">R Lab Part 2 </a>
+
+   \- uploaded biennially since 2023
 <br> <br> <br>
 
 [Back](./)
