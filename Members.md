@@ -41,6 +41,17 @@ Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
+
+### **Gao, HaoChen**
+<img src="assets/css/홈페이지사진_고호천.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
+Research Area | Classic laminate plate theory <br>
+Technical Skills | AutoCAD, MATLAB and MS Office <br>
+Personal Interests | Bike riding and badminton <br>
+Contact via <a href="mailto:G1215981061@outlook.com"> E-mail</a> <br>
+<br>
+
+
 ### **Sim, Gyeong Ran**
 <img src="assets/css/홈페이지사진_심경란.jpg" alt="Passport" width="150" height="180" > <br>
 Education | M.S Mechanical Engineering, Hanbat National University, 2022  <br>
@@ -87,16 +98,6 @@ Research Area | Smart composites <br>
 Technical Skills | CATIA, MATLAB and MS Office <br>
 Personal Interests | Aerospace <br>
 Contact via <a href="mailto:mszzangso@hanyang.ac.kr"> E-mail</a> <br>
-<br>
-
-
-### **Gao, HaoChen**
-<img src="assets/css/홈페이지사진_고호천.jpg" alt="Passport" width="150" height="180" > <br>
-Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
-Research Area | Classic laminate plate theory <br>
-Technical Skills | AutoCAD, MATLAB and MS Office <br>
-Personal Interests | Bike riding and badminton <br>
-Contact via <a href="mailto:G1215981061@outlook.com"> E-mail</a> <br>
 <br>
 
 
