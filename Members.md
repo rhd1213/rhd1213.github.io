@@ -70,7 +70,7 @@ Education | B.S. in Mechanical Engineering, Kookmin University, 2025  <br>
 Research Area | Optimum design, AI  <br>
 Technical Skills | CATIA, SolidWorks, MATLAB, ANSYS, ABAQUS and Python  <br>
 Personal Interests | Robot, AI  <br>
-Contact via <a href="mailto:hjh346@naver.com"> E-mail #1</a>  <br>
+Contact via <a href="mailto:hjh346@hanyang.ac.kr"> E-mail #1</a> or <a href="mailto:hjh346@kitech.re.kr"> E-mail #2</a> <br>
 <br>
 
 
