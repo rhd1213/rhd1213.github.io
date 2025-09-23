@@ -130,6 +130,16 @@ Personal Interests | Excercise and basketball <br>
 Contact via <a href="mailto:jjii0228@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
+
+### **Park, Jingyeong**
+<img src="assets/css/홈페이지사진_박진.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2021 <br>
+Research Area | Smart composites <br>
+Technical Skills | CATIA, CAD and MS Office <br>
+Personal Interests | SHM and AI <br>
+Contact via <a href="mailto:jingyeong312@hanyang.ac.kr"> E-mail</a> <br>
+<br>
+
 <br>
 
 [Back](./)
