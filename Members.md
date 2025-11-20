@@ -52,16 +52,6 @@ Contact via <a href="mailto:G1215981061@outlook.com"> E-mail</a> <br>
 <br>
 
 
-### **Sim, Gyeong Ran**
-<img src="assets/css/홈페이지사진_심경란.jpg" alt="Passport" width="150" height="180" > <br>
-Education | M.S Mechanical Engineering, Hanbat National University, 2022  <br>
-&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp;  | B.S Advanced Materials Engineering, Korea Polytechnics, 2016  <br>
-Research Area | Experimental analysis and computational simulation of CFRPs   <br>
-Technical Skills | ABAQUS, SolidWorks and MS Office  <br>
-Personal Interests | Aerospace and defense  <br>
-Contact via <a href="mailto:grsim@hanyang.ac.kr"> E-mail #1</a> or <a href="mailto:grsim@kitech.re.kr"> E-mail #2</a> <br>
-<br>
-
 
 
 ### **Hwang, JeongHyun**
@@ -140,6 +130,15 @@ Personal Interests | SHM and AI <br>
 Contact via <a href="mailto:jingyeong312@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
+
+### **Park, Jingyeong**
+<img src="assets/css/홈페이지사진_최경의.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
+Research Area | Smart composites <br>
+Technical Skills | CATIA, CAD, Origin lab, ANSYS, Python and MS Office <br>
+Personal Interests | Photography, writing, learning a foreign language, traveling and swimming <br>
+Contact via <a href="mailto:cuiqingyi@hanyang.ac.kr"> E-mail</a> <br>
+<br>
 <br>
 
 [Back](./)
