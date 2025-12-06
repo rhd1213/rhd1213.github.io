@@ -131,7 +131,7 @@ Contact via <a href="mailto:jingyeong312@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
-### **Park, Jingyeong**
+### **Cui, QingYi**
 <img src="assets/css/홈페이지사진_최경의.jpg" alt="Passport" width="150" height="180" > <br>
 Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
 Research Area | Smart composites <br>
