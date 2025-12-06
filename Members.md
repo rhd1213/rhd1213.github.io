@@ -101,15 +101,6 @@ Contact via <a href="mailto:henrykim025@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
-### **Yang, Sang Heon**
-<img src="assets/css/홈페이지사진_양상헌.jpg" alt="Passport" width="150" height="180" > <br>
-Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2020 <br>
-Research Area | Smart composites <br>
-Technical Skills | CATIA, CAD and MS Office <br>
-Personal Interests | Heat, AI and Excercise <br>
-Contact via <a href="mailto:yellow5631@hanyang.ac.kr"> E-mail</a> <br>
-<br>
-
 
 ### **Han, Jungik**
 <img src="assets/css/홈페이지사진_한정익.jpg" alt="Passport" width="150" height="180" > <br>
