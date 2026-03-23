@@ -73,11 +73,11 @@ Contact via <a href="mailto:hjh346@hanyang.ac.kr"> E-mail #1</a> or <a href="mai
 
 
 ### **Park, JongHyun**
-<img src="assets/css/홈페이지사진_.jpg" alt="Passport" width="150" height="180" > <br>
-Education | B.S. in Engineering,  University, 202X  <br>
-Research Area | XX  <br>
-Technical Skills | XX  <br>
-Personal Interests | XX  <br>
+<img src="assets/css/홈페이지사진_박종현.jpg" alt="Passport" width="150" height="180" > <br>
+Education | B.S. in Polymer Engineering,  Pukyung National University, 2015  <br>
+Research Area | Organic synthesis,  Polymer compound, Polymer modification  <br>
+Technical Skills | MS Office, Compounding  <br>
+Personal Interests | Human relationship, Self development  <br>
 Contact via <a href="mailto:pak89666@hanyang.ac.kr"> E-mail #1</a> or <a href="mailto:jhpark@iae.re.kr"> E-mail #2</a> <br>
 <br>
 
