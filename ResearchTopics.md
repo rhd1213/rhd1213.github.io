@@ -7,7 +7,10 @@
 
 ### **Make Smart Composites, Intelligently**
 
-<img src="assets/css/OnePager of RLab_230906.png" alt="OnePager" width="653" height="494" > 
+<!-- <img src="assets/css/OnePager of RLab_230906.png" alt="OnePager" width="653" height="494" > -->
+<img src="assets/css/OnePager of RLab_230906.png" alt="OnePager" style="width:100%; max-width:653px; height:auto;">
+
+
 
 <dl>
 <dt>Structural Health Self-monitoring (SHSm) </dt>
