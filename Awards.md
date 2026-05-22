@@ -6,6 +6,16 @@
 # Awards
 <br>
 
+### **KSCM 2026**
+<!-- <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post.png" alt="Content"  width="320" height="380"  > <br> -->
+* Title (Eng): TBA <br>
+* Title (Kor): TBA <br>
+* Researcher: TBA and Hyung Doh Roh <br>
+* Topic: TBA
+* Conference: 2026년도 한국복합재료학회 춘계학술대회 <br>
+* Location: aT Center, Seoul, Republic of Korea <br>
+<br>
+
 
 
 ### **KSCM 2025**
