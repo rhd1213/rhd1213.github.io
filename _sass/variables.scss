@@ -10,8 +10,10 @@ $header-heading-color: #fff !default;
 // $header-bg-color: #1a2a6c;           // 오른쪽 끝 (네이비)
 // $header-bg-color-secondary: #00b4d8; // 왼쪽 시작 (청록)
 
-$header-bg-color: #050a1a;           // 기존 #0a0a2e보다 더 진한 네이비
-$header-bg-color-secondary: #4a1ab5; // 기존 #7b2ff7보다 더 어두운 보라
+// $header-bg-color: #050a1a;           // 기존 #0a0a2e보다 더 진한 네이비
+// $header-bg-color-secondary: #4a1ab5; // 기존 #7b2ff7보다 더 어두운 보라
+$header-bg-color: #0a0a2e;
+$header-bg-color-secondary: #7b2ff7;
 // $section-headings-color: #7b2ff7;
 $section-headings-color: #4a1ab5;    // 본문 제목
 $body-link-color: #1e6bb8 !default; 
