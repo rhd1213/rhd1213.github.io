@@ -22,7 +22,9 @@ Reinforce ourselves to spread out worldwide. </dd>
 
 ### **Logo**
 
-<img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" > 
+<!-- <img src="assets/css/Logo of RLab_V1.png" alt="Logo" width="685" height="335" >  -->
+<img src="assets/css/Logo of RLab_V1.png" alt="Logo" style="width:100%; max-width:685px; height:auto;">
+
 <br> <br>
 
 ### **Quotations with Empathy**
