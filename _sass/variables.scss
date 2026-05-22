@@ -6,8 +6,15 @@ $medium-breakpoint: 42em !default;
 $header-heading-color: #fff !default;
 // $header-bg-color: #159957 !default;
 // $header-bg-color-secondary: #155799 !default;
-$header-bg-color: #1a2a6c;           // 오른쪽 끝 (네이비)
-$header-bg-color-secondary: #00b4d8; // 왼쪽 시작 (청록)
+
+// $header-bg-color: #1a2a6c;           // 오른쪽 끝 (네이비)
+// $header-bg-color-secondary: #00b4d8; // 왼쪽 시작 (청록)
+
+$header-bg-color: #0a0a2e;
+$header-bg-color-secondary: #7b2ff7;
+$section-headings-color: #7b2ff7;
+$body-link-color: #7b2ff7;
+
 
 // Text
 $section-headings-color: #159957 !default;
