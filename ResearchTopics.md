@@ -19,11 +19,12 @@
 
 <dt>Artificial Intelligence (AI) to Composites </dt>
 <dd>State-of-the-art technologies for <br>
-  not only composite manufacturing but also functionalizations such as SHSm algorithms. </dd>
+  not only composite manufacturing such as sandwich composites and additive manufacturing <br>
+  but also functionalizations such as SHSm and EMI shielding. </dd>
 
-<dt>Composite Joining (Planned) </dt>
-<dd>Any joining methods are considered such as laser, sonicator, and induction. <br> 
-    This topic is under contemplation (TBD). </dd>
+<dt>Composite Joining </dt>
+<dd>Several joining methods are under investigation such as laser, sonicator, and induction. <br> 
+    Fastener-free joining accompanying its load transfer is actively researching. </dd>
 </dl>
 <br>
 
