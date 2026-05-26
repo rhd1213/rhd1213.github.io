@@ -27,6 +27,22 @@
 
 
 ### **KSCM 2025**
+<img src="assets/css/KSCM25F-GHC-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25F-GHC-Post.png" alt="Content"  width="320" height="380"  > <br>
+* Title (Eng): Steady-state thermal condition analysis system for heat transfer tubes in i-SMR, and replacement of Inconel690 with composite materials <br>
+* Researcher: Haochen Gao, Jae Yoon Jeong and Hyung Doh Roh <br>
+* Topic: Composite Materials for i-SMR with their Thermal Analysis
+* Conference: 2025년도 한국복합재료학회 추계학술대회 <br>
+* Location: aT Center, Seoul, Republic of Korea <br>
+<br>
+
+<img src="assets/css/KSCM25F-JWC-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25F-JWC-Post.png" alt="Content"  width="320" height="380"  > <br>
+* Title (Eng): Evaluation of Bonding Strength in CFRP Sandwich without Adhesive Film <br>
+* Researcher: Woo Cheol Jang, Jae Yoon Jeong and Hyung Doh Roh <br>
+* Topic: Manufacturing Sandwich Composite without Adhesive Film and its NDE
+* Conference: 2025년도 한국복합재료학회 추계학술대회 <br>
+* Location: aT Center, Seoul, Republic of Korea <br>
+<br>
+
 <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post.png" alt="Content"  width="320" height="380"  > <br>
 * Title (Eng): Debonding Diagnosis of Co-cured CFRP/PVC Foam Core Sandwich Composites by UT A-scan <br>
 * Title (Kor): 초음파 A-scan을 이용한 공동경화된 CFRP/PVC 폼코어 샌드위치 복합재의 접합 성능 평가 <br>
