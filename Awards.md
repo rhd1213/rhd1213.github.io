@@ -7,7 +7,7 @@
 <br>
 
 ### **KSCM 2026**
-<!-- <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post.png" alt="Content"  width="320" height="380"  > <br> -->
+<!-- <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post2.png" alt="Content"  width="320" height="380"  > <br> -->
 * Title (Eng): TBA <br>
 * Title (Kor): TBA <br>
 * Researcher: TBA and Hyung Doh Roh <br>
