@@ -27,7 +27,7 @@
 
 
 ### **KSCM 2025**
-<img src="assets/css/KSCM25F-GHC-Cert.png" alt="Certificate" width="300" height="360" style="margin-left:5px; margin-right:50px;">  <img src="assets/css/KSCM25F-GHC-Post.png" alt="Content"  width="320" height="380"  > <br>
+<img src="assets/css/KSCM25F-GHC-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:150px; margin-right:150px;">  <img src="assets/css/KSCM25F-GHC-Post.png" alt="Content"  width="300" height="380"  > <br>
 * Title (Eng): Steady-state thermal condition analysis system for heat transfer tubes in i-SMR, and replacement of Inconel690 with composite materials <br>
 * Researcher: Haochen Gao, Jae Yoon Jeong and Hyung Doh Roh <br>
 * Topic: Composite Materials for i-SMR with their Thermal Analysis
@@ -35,7 +35,7 @@
 * Location: aT Center, Seoul, Republic of Korea <br>
 <br>
 
-<img src="assets/css/KSCM25F-JWC-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:5px; margin-right:80px;">    <img src="assets/css/KSCM25F-JWC-Post.png" alt="Content"  width="320" height="380"> <br>
+<img src="assets/css/KSCM25F-JWC-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:50px; margin-right:100px;">    <img src="assets/css/KSCM25F-JWC-Post.png" alt="Content"  width="320" height="380"> <br>
 * Title (Eng): Evaluation of Bonding Strength in CFRP Sandwich without Adhesive Film <br>
 * Researcher: Woo Cheol Jang, Jae Yoon Jeong and Hyung Doh Roh <br>
 * Topic: Manufacturing Sandwich Composite without Adhesive Film and its NDE
