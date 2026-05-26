@@ -35,7 +35,7 @@
 * Location: aT Center, Seoul, Republic of Korea <br>
 <br>
 
- <img src="assets/css/KSCM25F-JWC-Cert.png" alt="Certificate" width="240" height="360" >    <img src="assets/css/KSCM25F-JWC-Post.png" alt="Content"  width="320" height="380"  > <br>
+<img src="assets/css/KSCM25F-JWC-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:50px; margin-right:200px;">    <img src="assets/css/KSCM25F-JWC-Post.png" alt="Content"  width="320" height="380"> <br>
 * Title (Eng): Evaluation of Bonding Strength in CFRP Sandwich without Adhesive Film <br>
 * Researcher: Woo Cheol Jang, Jae Yoon Jeong and Hyung Doh Roh <br>
 * Topic: Manufacturing Sandwich Composite without Adhesive Film and its NDE
