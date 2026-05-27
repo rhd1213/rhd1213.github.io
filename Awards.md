@@ -7,7 +7,7 @@
 <br>
 
 ### **KSCM 2026**
-<img src="assets/css/KSCM26S-JoinCuSint-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:10px; margin-right:40px;">  <img src="assets/css/KSCM26S-JoinCuSint-Post.png" alt="Content"  width="300" height="380"  > <br>
+<img src="assets/css/KSCM26S-JoinCuSint-Cert.png" alt="Certificate" width="260" height="360" style="margin-left:10px; margin-right:40px;">  <img src="assets/css/KSCM26S-JoinCuSint-Post.png" alt="Content"  width="300" height="380"  > <br>
 * Title (Eng): Improving Load Transfer and Damage Tolerance of CFRP Adhesive Joints Using Cu Nanoparticle–Sintered Copper Mesh <br>
 * Researcher: Yakun Li, Mincheol Jo, Qingyi  Cui, Jisoo Kim and Hyung Doh Roh <br>
 * Topic: CFRTP Joining using Hierarchical Cu Mesh using Laser Sintering
