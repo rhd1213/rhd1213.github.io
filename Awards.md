@@ -15,7 +15,7 @@
 * Location: Shinhwa World, Jeju, Republic of Korea <br>
 <br>
 
-<img src="assets/css/KSCM26S-JWC-Cert.png" alt="Certificate" width="260" height="360" "style= margin-right:20px;">  <img src="assets/css/KSCM26S-JWC-Post.png" alt="Content"  width="320" height="380"  > <br>
+<img src="assets/css/KSCM26S-JWC-Cert.png" alt="Certificate" width="260" height="360" style= "margin-right:20px;">  <img src="assets/css/KSCM26S-JWC-Post.png" alt="Content"  width="320" height="380"  > <br>
 * Title (Eng): Lightweight and Cost Reduction of Sandwich-Structured Wings for Canister-Launched and Blade-Type UAV <br>
 * Researcher: Woo Cheol Jang and Hyung Doh Roh <br>
 * Topic: Lightweight Adhesive-free Sandwich Composite Manufacturing for UAV Winglets
