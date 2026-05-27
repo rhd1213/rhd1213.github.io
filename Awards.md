@@ -7,20 +7,18 @@
 <br>
 
 ### **KSCM 2026**
-<!-- <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post2.png" alt="Content"  width="320" height="380"  > <br> -->
-* Title (Eng): TBA <br>
-* Title (Kor): TBA <br>
-* Researcher: TBA and Hyung Doh Roh <br>
-* Topic: TBA
+<img src="assets/css/KSCM26S-JoinCuSint-Cert.png" alt="Certificate" width="240" height="360" style="margin-left:10px; margin-right:40px;">  <img src="assets/css/KSCM26S-JoinCuSint-Post.png" alt="Content"  width="300" height="380"  > <br>
+* Title (Eng): Improving Load Transfer and Damage Tolerance of CFRP Adhesive Joints Using Cu Nanoparticle–Sintered Copper Mesh <br>
+* Researcher: Yakun Li, Mincheol Jo, Qingyi  Cui, Jisoo Kim and Hyung Doh Roh <br>
+* Topic: CFRTP Joining using Hierarchical Cu Mesh using Laser Sintering
 * Conference: 2026년도 한국복합재료학회 춘계학술대회 <br>
 * Location: Shinhwa World, Jeju, Republic of Korea <br>
 <br>
 
-<!-- <img src="assets/css/KSCM25S-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM25S-Post.png" alt="Content"  width="320" height="380"  > <br> -->
-* Title (Eng): TBA <br>
-* Title (Kor): TBA <br>
-* Researcher: TBA and Hyung Doh Roh <br>
-* Topic: TBA
+<img src="assets/css/KSCM26S-JWC-Cert.png" alt="Certificate" width="300" height="360" >  <img src="assets/css/KSCM26S-JWC-Post.png" alt="Content"  width="320" height="380"  > <br>
+* Title (Eng): Lightweight and Cost Reduction of Sandwich-Structured Wings for Canister-Launched and Blade-Type UAV <br>
+* Researcher: Woo Cheol Jang and Hyung Doh Roh <br>
+* Topic: Lightweight Adhesive-free Sandwich Composite Manufacturing for UAV Winglets
 * Conference: 2026년도 한국복합재료학회 춘계학술대회 <br>
 * Location: Shinhwa World, Jeju, Republic of Korea <br>
 <br>
