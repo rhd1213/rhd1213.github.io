@@ -21,26 +21,6 @@ Contact via <a href="mailto:liyakun1115@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
-### **Xin, YaoZhong**
-<img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
-Education | B.S. in Mechanical Engineering, Hanyang University ERICA, 2024 <br>
-Research Area | Smart composites <br>
-Technical Skills | Design and simulation: SolidWorks, AutoCad and ANSYS; Data analysis: Python and MS Office; <br>
-Personal Interests | Badminton and Lego <br>
-Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
-<br>
-
-
-### **Jang, Woo Cheol**
-<img src="assets/css/홈페이지사진_장우철.jpg" alt="Passport" width="150" height="180" > <br>
-Education | B.S. in Aviation Maintenance Engineering, Korea Polytechnics, 2017  <br>
-Research Area | Thermoforming of sandwich composites   <br>
-Technical Skills | CATIA, AutoCAD and manufacturing (hand layup, infusion and prepreg)  <br>
-Personal Interests | SCUBA and snowboard  <br>
-Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
-<br>
-
-
 
 ### **Gao, HaoChen**
 <img src="assets/css/홈페이지사진_고호천.jpg" alt="Passport" width="150" height="180" > <br>
@@ -74,7 +54,7 @@ Contact via <a href="mailto:hjh346@hanyang.ac.kr"> E-mail #1</a> or <a href="mai
 
 ### **Park, JongHyun**
 <img src="assets/css/홈페이지사진_박종현.jpg" alt="Passport" width="150" height="180" > <br>
-Education | B.S. in Polymer Engineering,  Pukyung National University, 2015  <br>
+Education | M.S. in Polymer Engineering,  Pukyung National University, 2015  <br>
 Research Area | Organic synthesis,  Polymer compound, Polymer modification  <br>
 Technical Skills | MS Office, Compounding  <br>
 Personal Interests | Human relationship, Self development  <br>
@@ -82,13 +62,19 @@ Contact via <a href="mailto:pak89666@hanyang.ac.kr"> E-mail #1</a> or <a href="m
 <br>
 
 
-
+### **Cui, QingYi**
+<img src="assets/css/홈페이지사진_최경의.jpg" alt="Passport" width="150" height="180" > <br>
+Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
+Research Area | Smart composites <br>
+Technical Skills | CATIA, CAD, Origin lab, ANSYS, Python and MS Office <br>
+Personal Interests | Photography, writing, learning a foreign language, traveling and swimming <br>
+Contact via <a href="mailto:cuiqingyi@hanyang.ac.kr"> E-mail</a> <br>
 <br>
+
 
 <br>
 
 # Undergraduate
-
 
 
 ### **Kim, HyeonIl**
@@ -112,17 +98,33 @@ Contact via <a href="mailto:jjii0228@hanyang.ac.kr"> E-mail</a> <br>
 <br>
 
 
+<br>
+# Alumni
 
 
-### **Cui, QingYi**
-<img src="assets/css/홈페이지사진_최경의.jpg" alt="Passport" width="150" height="180" > <br>
-Education | Undergraduate in Mechanical Engineering, Hanyang University ERICA since 2022 <br>
+### **Xin, YaoZhong**
+<img src="assets/css/홈페이지사진_신요중2.jpg" alt="Passport" width="150" height="180" > <br>
+Affiliation | Qingdao Port, China <br>
+Education | M.S. in Mechanical Engineering, Hanyang University ERICA, 2026 <br>
 Research Area | Smart composites <br>
-Technical Skills | CATIA, CAD, Origin lab, ANSYS, Python and MS Office <br>
-Personal Interests | Photography, writing, learning a foreign language, traveling and swimming <br>
-Contact via <a href="mailto:cuiqingyi@hanyang.ac.kr"> E-mail</a> <br>
+Technical Skills | Design and simulation: SolidWorks, AutoCad and ANSYS; Data analysis: Python and MS Office; <br>
+Personal Interests | Badminton and Lego <br>
+Contact via <a href="mailto:styxhin@hanyang.ac.kr"> E-mail</a> <br>
 <br>
+
+
+### **Jang, Woo Cheol**
+<img src="assets/css/홈페이지사진_장우철.jpg" alt="Passport" width="150" height="180" > <br>
+Affiliation | Hankook Composite, Republic of Korea <br>
+Education | M.S. in Mechanical Engineering, Hanyang University ERICA, 2026 <br>
+Research Area | Thermoforming of sandwich composites   <br>
+Technical Skills | CATIA, AutoCAD and manufacturing (hand layup, infusion and prepreg)  <br>
+Personal Interests | SCUBA and snowboard  <br>
+Contact via <a href="mailto:hioucher@hanyang.ac.kr"> E-mail</a> <br>
 <br>
+
+
+
 
 [Back](./)
 <br>
