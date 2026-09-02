@@ -21,5 +21,6 @@ Welcome and let us enjoy state-of-the-art composites research. <br>
 | Publications     | <a href="https://scholar.google.co.kr/citations?user=e4VrpLoAAAAJ&hl=en" target="blank">Google Scholar</a>                                                              | Latest update          |
 | Awards           | [Awards](./Awards.html)                                                                                                                                                 | Latest update          |
 | Location         | <a href="https://goo.gl/maps/YQLxnQRgC48nPyLk6" target="blank">ERICA Eng. Bld. V</a>                                                                                    | Ansan, S. Korea        |
+| SNS              | <a href="https://www.instagram.com/r_lab_official/" target="blank">Instagram</a>                                                                                    | Visit and DM me        |
 
 <br><br>
