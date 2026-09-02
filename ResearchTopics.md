@@ -14,8 +14,9 @@
 
 <dl>
 <dt>Structural Health Self-monitoring (SHSm) </dt>
-<dd>Continuous carbon fiber reinforced plastics <br>
-  with a function of mechanical deformation monitoring without any sensors. </dd>
+<dd>Continuous carbon fiber reinforced plastics (polymers) <br>
+  with a function of mechanical deformation monitoring without any sensors. <br>
+Nowadays, SHM for small modular reactor (SMR) is actively under research. </dd>
 
 <dt>Artificial Intelligence (AI) to Composites </dt>
 <dd>State-of-the-art technologies for <br>
